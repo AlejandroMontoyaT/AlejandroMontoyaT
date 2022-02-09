@@ -1,4 +1,6 @@
-### Hola 👋, Mi Nombre es Alejandro Montoya
+Hi 👋, I'm, Mi Nombre es Alejandro Montoya
+
+A passionate in the process of being a Full Stack developer from Mexico
 
 <!--
 **AlejandroMontoyaT/AlejandroMontoyaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
