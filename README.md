@@ -1,4 +1,4 @@
-Hi 👋, I'm, Mi Nombre es Alejandro Montoya
+Hi 👋, I'm, Alejandro
 
 A passionate in the process of being a Full Stack developer from Mexico
 
