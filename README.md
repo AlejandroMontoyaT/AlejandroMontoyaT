@@ -18,9 +18,6 @@ Un apasionado en el proceso de ser un desarrollador Full Stack de México
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=alejandromontoyat&icon=6&color=6)](https://visitcount.itsvg.in)
 
