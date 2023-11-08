@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>Desarrollador Java trainin apasionado por la tecnología. Tengo experiencia en soporte a usuarios y en puestos de ITIL, lo que me da una sólida base en el funcionamiento 
-<br>de los sistemas informáticos.Actualmente, me estoy desarrollando como desarrollador Java en face trainin, donde estoy trabajando con diferentes tecnologías, como Java, Spring Boot,<br>Angular, PostgreSQL y Azure.<br><br>Mis objetivos profesionales son convertirme en un desarrollador Java competente y trabajar en proyectos de desarrollo de software de alto impacto.<br> Estoy comprometido con el aprendizaje y el desarrollo profesional, y estoy constantemente buscando nuevas maneras de mejorar mis habilidades.
+<br>de los sistemas informáticos.Actualmente, me estoy desarrollando como desarrollador Java en face trainin, donde estoy trabajando con diferentes tecnologías, como Java, Spring Boot,<br>Angular, PostgreSQL y Javascript. Cuento con Certificacion Az 900 Azure y Scrum Fundamentals.<br><br>Mis objetivos profesionales son convertirme en un desarrollador Java competente y trabajar en proyectos de desarrollo de software de alto impacto.<br> Estoy comprometido con el aprendizaje y el desarrollo profesional, y estoy constantemente buscando nuevas maneras de mejorar mis habilidades.
 
 
 ## 🌐 Socials:
