@@ -1,5 +1,5 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Alejandro%20Montoya%20T%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-<h1>Hola 👋, soy Alejandro Montoya T.</h1>
+<center>[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Alejandro%20Montoya%20T%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+<h1>Hola 👋, soy Alejandro Montoya T.</h1></center>
 <h3>Soy un apasionado Desarrollador Backend en formación, especializado en Java y comprometido con el aprendizaje continuo y la mejora de mis habilidades. Actualmente, estoy desarrollando mis conocimientos en tecnologías como Java, Spring Boot, Angular y PostgreSQL, aplicando estos conceptos en proyectos prácticos que me permiten crecer profesionalmente. Además, tengo experiencia en soporte técnico bajo el marco de trabajo ITIL, gestionando incidentes, problemas y cambios para asegurar la continuidad de los servicios de TI. Esta experiencia me ha brindado una comprensión sólida de los sistemas informáticos y una base fuerte para mi carrera en desarrollo de software. Siempre estoy en busca de oportunidades para aprender y mantenerme al día con las últimas tendencias y tecnologías en el desarrollo Backend. Si buscas un Desarrollador Backend junior comprometido y apasionado por Java.</h3>
 
 ## 🌐 Socials:
