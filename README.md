@@ -1,5 +1,9 @@
-# 💫 About Me:
-Soy un desarrollador Java con una pasión innata por la tecnología y el desarrollo de software. Con experiencia previa en soporte a usuarios y conocimientos sólidos en ITIL, poseo una comprensión profunda del funcionamiento de los sistemas informáticos. Actualmente, estoy en una etapa de crecimiento y desarrollo profesional, trabajando como desarrollador Java en Face Training, donde tengo la oportunidad de trabajar con una variedad de tecnologías, incluyendo Java, Spring Boot, Angular, PostgreSQL y JavaScript. Mi compromiso con la mejora continua se refleja en mi búsqueda constante de nuevas habilidades y certificaciones, como mi certificación AZ-900 en Azure y Scrum Fundamentals. Mis objetivos profesionales son convertirme en un desarrollador Java competente y contribuir a proyectos de desarrollo de software de alto impacto.
+<h1 align="center">Hola 👋, soy Alejandro Montoya T.</h1>
+<h3 align="center">Soy un apasionado Desarrollador Backend en formación, especializado en Java y comprometido con el aprendizaje continuo y la mejora de mis habilidades. Actualmente, estoy desarrollando mis conocimientos en tecnologías como Java, Spring Boot, Angular y PostgreSQL, aplicando estos conceptos en proyectos prácticos que me permiten crecer profesionalmente. Además, tengo experiencia en soporte técnico bajo el marco de trabajo ITIL, gestionando incidentes, problemas y cambios para asegurar la continuidad de los servicios de TI. Esta experiencia me ha brindado una comprensión sólida de los sistemas informáticos y una base fuerte para mi carrera en desarrollo de software. Siempre estoy en busca de oportunidades para aprender y mantenerme al día con las últimas tendencias y tecnologías en el desarrollo Backend. Si buscas un Desarrollador Backend junior comprometido y apasionado por JavA.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandromontoyat&label=Profile%20views&color=0e75b6&style=flat" alt="alejandromontoyat" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=" https://github-profile-trophy.vercel.app/?username=alejandromontoyat" alt="alejandromontoyat" /></a> </p>
 
 
 ## 🌐 Socials:
